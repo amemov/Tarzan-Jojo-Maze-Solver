@@ -1,0 +1,10 @@
+8 5
+1 1
+S X X X X 
+S X X X X 
+S S S S S 
+E E W W S 
+X X X X S 
+X X X X N 
+X X X X N 
+J E E W W 

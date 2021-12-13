@@ -1,0 +1,1 @@
+S-3 E-3 W-4 S-4 E-3 E-4 S-3 S-3 S-3 S-4 N-3 N-3 N-3 N-3 N-3 NW-3 E-3 W-4 W-4 E-3 SW-3 S-4 S-4 S-4 S-3 E-3 E-3 N-3 S-4 N-3 N-3 W-3 SW-3 N-4 N-4 N-4 N-3 E-4 E-4 S-3 S-3 S-3 S-3 W-4 E-3 S-4 W-4 E-3 S-3
